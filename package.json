@@ -1,0 +1,16 @@
+{
+  "name": "app-web-scrapping-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "example": "node example/example.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "puppeteer": "^18.1.0"
+  }
+}

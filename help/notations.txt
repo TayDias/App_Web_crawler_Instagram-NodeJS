@@ -1,0 +1,9 @@
+Fix Error: Uncaught SyntaxError node_modules/puppeteer-core/lib/cjs/puppeteer/common/util.js
+
+    npm i puppeteer@18.1.0
+
+
+Code that will scroll through the page to fetch more Instagram posts:
+
+    Building an Instagram Crawler Using Node and Puppeteer:
+    https://techwaifu.com/blog/client-side-rendered-crawler-e08c0320
